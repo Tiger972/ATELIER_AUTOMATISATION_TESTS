@@ -75,4 +75,4 @@ Vos log sont accéssible via les URL suivantes :
 * Error log : {site}.pythonanywhere.com.error.log
 * Server log: {site}.pythonanywhere.com.server.log
 
-Modification README Andy 01
+Modification README Andy 02
